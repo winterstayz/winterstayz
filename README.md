@@ -47,8 +47,6 @@
   <img src="https://cdn-images.tryhackme.com/public-profile/winter.stayz/badge-32ec4dbb5bfd.png" alt="winter.stayz's TryHackMe badge." width="400">
 </p>
 
-![tryhackme stats](https://raw.githubusercontent.com/winterstayz/winterstayz/main/assets/thm_propic.png)
-
 ---
 
 ### 📫 Reach Me
