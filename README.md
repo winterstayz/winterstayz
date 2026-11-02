@@ -44,6 +44,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile"/>
   </a>
   <br/>
+  ![tryhackme stats](https://raw.githubusercontent.com/winter.stayz/winter.stayz/master/assets/thm_propic.png)
   <img src="https://cdn-images.tryhackme.com/public-profile/winter.stayz/badge-32ec4dbb5bfd.png" alt="winter.stayz's TryHackMe badge." width="400">
 </p>
 
