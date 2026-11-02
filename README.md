@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile"/>
   </a>
   <br/>
-  <img src="https://raw.githubusercontent.com/winterstayz/winterstayz/master/assets/thm_propic.png" alt="TryHackMe stats"/>
+  <img src="https://raw.githubusercontent.com/winter.stayz/winter.stayz/master/assets/thm_propic.png" alt="TryHackMe stats"/>
 </p>
 
 ---
