@@ -51,5 +51,5 @@
 
 ### 📫 Reach Me
 <p align="left">
-  <a href="https://YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hugo&logoColor=white"/></a>
+  <a href="https://blog.winter-stayz.workers.dev/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hugo&logoColor=white"/></a>
 </p>
