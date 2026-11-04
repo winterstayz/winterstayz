@@ -4,11 +4,6 @@
   Backend Developer & Cloud Infra Engineer, aiming to become a Pentester in Japan 🇯🇵
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winterstayz&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/winterstayz?style=flat-square&color=blue" alt="Followers"/>
-</p>
-
 ---
 
 ### 🚀 About Me
