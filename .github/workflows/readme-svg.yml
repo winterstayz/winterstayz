@@ -1,0 +1,38 @@
+name: Update README banner
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: readme-svg
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jihoo12/github-readme-svg@v1
+        id: svg
+        with:
+          style: matrix
+          name: Hi, I'm Winter
+          lines: |
+            Welcome to my GitHub!
+            Currently studying penetration testing
+          tags: |
+            AWS
+            Cloud
+            CI/CD
+            Container
+          output-dir: assets
+      - name: Commit generated SVG
+        run: |
+          git config user.name "winterstayz"
+          git config user.email "winter.stayz@gmail.com"
+          git add assets/synthwave.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update README SVG"
+            git push
+          fi
